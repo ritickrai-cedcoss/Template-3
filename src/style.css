@@ -198,3 +198,10 @@ form .submit {
     border: none;
   }
 }
+/*footer section styling starts here*/
+footer {
+    justify-content: space-between;
+    display: flex;
+    padding: 1% 2%;
+  }
+  
