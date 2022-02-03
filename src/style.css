@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+/*HEADER SECTION STYLING STARTS HERE*/
+header {
+    padding: 1% 1%;
+  }
+  .menu {
+    padding: 1% 1%;
+    margin-bottom: 2%;
+  }
+  .menu ul {
+    list-style: none;
+  }
+  .menu ul li {
+    display: inline-block;
+    padding: 1% 1%;
+    float: right;
+  }
+  header .logo {
+    padding-left: 3%;
+  }
